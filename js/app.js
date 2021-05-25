@@ -18,7 +18,7 @@ array [5] = watchQues;
 for (var i=1; i<=5; i++)
 {
     for (var n=1; n<=3; n++)
-array [i] = toLowerCase(array[i]);
+array [i] = (array[i].toLowerCase);
 
 }
 console.log (array)
