@@ -5,7 +5,7 @@ let drinksQues = prompt('Do I prefer hot drinks?')
 let sportQues = prompt ('Do I have sport addiction?')
 let peopleQues = prompt ('Do I enjoy hanging out with big number of people?')
 let FamilyQues = prompt ('Is family a priority for me?')
-let watchQues = prompt ('Do I watch movies more than series'?
+let watchQues = prompt ('Do I watch movies more than series?')
 
 var c = 0;
 var array = [];
